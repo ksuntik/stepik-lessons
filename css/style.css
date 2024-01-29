@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Gotham;
+    src: url(../fonts/Gotham-Bold.otf);
+}
+
+@font-face {
+    font-family: Proxima;
+    src: url(../fonts/proximanova-regular.otf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
